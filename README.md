@@ -11,6 +11,4 @@
 
 - Optimizar la eficiencia del sistema para proporcionar información actualizada y relevante de forma rápida y precisa.
 
-- Documentar y compartir el código en GitHub para facilitar la accesibilidad y reutilización del proyecto.
-
 - Implementar funcionalidades de filtrado y clasificación para permitir a los usuarios personalizar la comparación de precios según sus preferencias específicas de productos y características tecnológicas.
