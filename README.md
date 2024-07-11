@@ -1,7 +1,7 @@
 # EXAMEN FINAL LP2
 
 - Delgado Conzuero, Nathaly 
--  
+- Colca Balbin, Josue
 # Comparación Automatizada de precios en productos de tecnología en 2 de los E-commerce más populares( Ebay y Mercado Libre)
 
 ## OBJETIVOS
