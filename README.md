@@ -1,4 +1,4 @@
-# TRABAJO FINAL LP2
+# EXAMEN FINAL LP2
 
 - Delgado Conzuero, Nathaly 
 -  
